@@ -6,18 +6,18 @@ clean_threshold_hours: 168
 
 admins:
   b3c3b05a-a52d-33a6-a9c6-6e5063e00f0a:
-    last_login_name: DarthSalamon
+    last_login_name: TheAssassin
     is_activated: true
     is_senior_admin: true
     is_telnet_admin: true
     ips:
     - 127.0.0.1
     console_aliases:
-    - darth
+    - thea
     last_login: Tue, 15 Apr 2014 16:08:39 +0200
-    custom_login_message: the &5Lead Developer&b!
+    custom_login_message: &bis a &dSenior Admin
   1156a81a-23fb-435e-9aff-fe9c2ea7e82d:
-    last_login_name: Madgeek1450
+    last_login_name: Madgeek
     is_activated: true
     is_telnet_admin: true
     is_senior_admin: true
@@ -29,7 +29,7 @@ admins:
     last_login: Tue, 15 Apr 2014 16:01:24 +0200
     custom_login_message: the &4Co-Founder&b and &6Master-ass-kicker&b.
   58a6ea8a-3ac3-4033-80e3-41bf9caa634b:
-    last_login_name: markbyron
+    last_login_name: Rhyper419
     is_activated: true
     is_telnet_admin: true
     is_senior_admin: true
